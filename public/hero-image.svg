@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#FFECE5" />
+  <circle cx="300" cy="200" r="150" fill="#FF5722" fill-opacity="0.2" />
+  
+  <!-- Person 1 -->
+  <circle cx="200" cy="200" r="40" fill="#FF5722" />
+  <circle cx="200" cy="200" r="35" fill="#FFECE5" />
+  <rect x="180" y="190" width="40" height="10" rx="5" fill="#333" />
+  <circle cx="190" cy="180" r="5" fill="#333" />
+  <circle cx="210" cy="180" r="5" fill="#333" />
+  
+  <!-- Person 2 -->
+  <circle cx="300" cy="200" r="40" fill="#FF5722" />
+  <circle cx="300" cy="200" r="35" fill="#FFECE5" />
+  <rect x="280" y="190" width="40" height="10" rx="5" fill="#333" />
+  <circle cx="290" cy="180" r="5" fill="#333" />
+  <circle cx="310" cy="180" r="5" fill="#333" />
+  
+  <!-- Person 3 -->
+  <circle cx="400" cy="200" r="40" fill="#FF5722" />
+  <circle cx="400" cy="200" r="35" fill="#FFECE5" />
+  <rect x="380" y="190" width="40" height="10" rx="5" fill="#333" />
+  <circle cx="390" cy="180" r="5" fill="#333" />
+  <circle cx="410" cy="180" r="5" fill="#333" />
+  
+  <!-- Trophy -->
+  <path d="M300 100L320 130H280L300 100Z" fill="#FFD700" />
+  <rect x="290" y="130" width="20" height="30" fill="#FFD700" />
+  <rect x="280" y="160" width="40" height="10" fill="#FFD700" />
+  
+  <!-- Stars -->
+  <path d="M150 120L155 130L165 132L157 140L159 150L150 145L141 150L143 140L135 132L145 130L150 120Z" fill="#FFD700" />
+  <path d="M450 120L455 130L465 132L457 140L459 150L450 145L441 150L443 140L435 132L445 130L450 120Z" fill="#FFD700" />
+  <path d="M200 80L203 87L210 88L205 94L206 100L200 97L194 100L195 94L190 88L197 87L200 80Z" fill="#FFD700" />
+  <path d="M400 80L403 87L410 88L405 94L406 100L400 97L394 100L395 94L390 88L397 87L400 80Z" fill="#FFD700" />
+  
+  <!-- Connection Lines -->
+  <line x1="240" y1="200" x2="260" y2="200" stroke="#FF5722" stroke-width="3" />
+  <line x1="340" y1="200" x2="360" y2="200" stroke="#FF5722" stroke-width="3" />
+  
+  <!-- Points/Badges -->
+  <circle cx="200" cy="250" r="15" fill="#FFD700" />
+  <text x="200" y="255" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">+10</text>
+  
+  <circle cx="300" cy="250" r="15" fill="#FFD700" />
+  <text x="300" y="255" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">+15</text>
+  
+  <circle cx="400" cy="250" r="15" fill="#FFD700" />
+  <text x="400" y="255" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">+20</text>
+</svg>

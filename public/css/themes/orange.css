@@ -1,0 +1,31 @@
+:root {
+    --primary: #FF5722;
+    --primary-dark: #E64A19;
+    --primary-light: #FFCCBC;
+    --primary-text: #FFFFFF;
+    --accent: #FF9800;
+}
+
+.bg-primary {
+    background-color: var(--primary) !important;
+}
+
+.hover\:bg-primary-dark:hover {
+    background-color: var(--primary-dark) !important;
+}
+
+.bg-primary-light {
+    background-color: var(--primary-light) !important;
+}
+
+.text-primary {
+    color: var(--primary) !important;
+}
+
+.border-primary {
+    border-color: var(--primary) !important;
+}
+
+.hover\:bg-primary-light:hover {
+    background-color: var(--primary-light) !important;
+}
